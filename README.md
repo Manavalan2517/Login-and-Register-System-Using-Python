@@ -11,6 +11,14 @@ validateObj.login_user("john", "password123")
 validateObj.delete_account("john")
 ```
 
+## Modules Used
+- `questionary`----> `for creating interactive prompts and questionnaires`
+- `json`--------------> `Used for parsing and generating JSON data`
+- `rich.console`---> `enables rich text and beautiful formatting in the terminal`
+- `time.sleep`------> `used to pause the execution of the script for a specified number of seconds.`
+- `bcrypt`------------> `to build a cryptographic hash of passwords`
+- `re`------------------> `used for searching, matching, and manipulating strings based on specific patterns`
+  
 ## Code Analysis
 ### Inputs
 - `username` (string): The username entered by the user.
