@@ -1,5 +1,11 @@
 # Login-and-Register-System-Using-Python
 
+
+
+https://github.com/Manavalan2517/Login-and-Register-System-Using-Python/assets/112639423/960b4632-8146-4633-8835-40dcf369d781
+
+
+
 ## Summary
 The code snippet is a class called `Validate` that provides methods for validating and managing user registration, login, and account deletion. It uses the `bcrypt` library for password hashing and the `re` library for email validation. The class also includes methods for updating a JSON file with user data and checking if a username already exists.
 
